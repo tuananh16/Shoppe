@@ -120,6 +120,9 @@
         display: block;
         padding: 6px 8px;
     }
+    .mobile-category__list {
+        margin-top: 110px;
+    }
     @keyframes mobileSearchSideIn{
         from {
             opacity: 0;
